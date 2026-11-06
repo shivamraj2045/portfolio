@@ -8,7 +8,7 @@ An overview of the features in Shivam Raj's React portfolio.
 - Hero with introduction, profile photo frame, availability badge, CTAs, and social links
 - About Me with academic background, interests, quick facts, and career goal
 - Experience & Leadership timeline for the ACM Student Chapter role
-- Technical Skills in six categories: Programming Languages, Frontend, Backend, Databases, Tools, and Core CS
+- Technical Skills in six categories: Programming Languages, Frontend, Backend, Databases, Tools, and Core CS, with brand logo tiles and brand-colored hover effects
 - Featured Projects grid with cover images, categories, descriptions, tags, and editable links
 - Education timeline for the B.Tech CSE degree
 - Achievements cards for leadership, hackathons, technical work, and editable certifications
