@@ -64,13 +64,8 @@ export default function Navbar() {
           <span className="grid h-10 w-10 place-items-center rounded-xl border border-white/10 bg-gradient-to-br from-blue-500/20 to-violet-500/20 font-display text-sm font-semibold text-gradient transition-transform duration-300 group-hover:scale-105">
             {initials}
           </span>
-          <span className="flex flex-col leading-tight">
-            <span className="font-display text-base font-semibold tracking-tight text-ink">
-              {profile.name}
-            </span>
-            <span className="font-mono text-[10px] uppercase tracking-[0.18em] text-ink-muted">
-              {profile.quickFacts[0]}
-            </span>
+          <span className="font-display text-base font-semibold tracking-tight text-ink">
+            {profile.name}
           </span>
         </a>
 

@@ -128,7 +128,7 @@ export const skillGroups = [
   {
     title: "Tools",
     icon: "wrench",
-    skills: ["Git", "GitHub", "VS Code", "Linux Mint"],
+    skills: ["Git", "GitHub", "VS Code", "Linux"],
   },
   {
     title: "Core CS",
@@ -231,8 +231,8 @@ export const achievements = [
   },
   {
     title: "Certifications",
-    tag: "Editable",
-    description: "Add certification details here as they are completed.",
+    tag: "this feature added soon",
+    description: "",
     icon: "badge",
     placeholder: true,
   },
@@ -248,7 +248,7 @@ export const codingProfiles = [
   },
   {
     platform: "LeetCode",
-    handle: "Add profile URL",
+    handle: "",
     href: "#",
     icon: "code",
     description: "Data structures and algorithms practice.",
@@ -256,7 +256,7 @@ export const codingProfiles = [
   },
   {
     platform: "LinkedIn",
-    handle: "Add profile URL",
+    handle: "",
     href: "#",
     icon: "linkedin",
     description: "Professional profile and networking.",
@@ -264,7 +264,7 @@ export const codingProfiles = [
   },
   {
     platform: "Codeforces",
-    handle: "Add profile URL",
+    handle: "",
     href: "#",
     icon: "terminal",
     description: "Competitive programming profile, if available.",
